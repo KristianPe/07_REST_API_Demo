@@ -1,5 +1,5 @@
 
-Ports:
+ports:
 - name: Web App
 description: The main application web server
 port: 8080
