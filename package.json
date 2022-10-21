@@ -1,0 +1,23 @@
+{
+  "name": "07_rest_api_demo",
+  "version": "1.0.0",
+  "description": "## Demo mit Node.js / Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KristianPe/07_REST_API_Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristianPe/07_REST_API_Demo/issues"
+  },
+  "homepage": "https://github.com/KristianPe/07_REST_API_Demo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
